@@ -8,9 +8,18 @@ namespace SegundaPrueba
 {
     class Program
     {
+
+        public void prueba() {
+
+            //Cambio en desarrollo 8:28
+
+
+        }
+
         static void Main(string[] args)
         {
             //Cambio en desarrollo 8:20
+
         }
     }
 }
